@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - Hello, I'm Nick Chin 👋
+- The profile picture is my lovely dog, a German Shepherd named Erhei.🐾
 
 ## Tags
 
