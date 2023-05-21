@@ -1,13 +1,12 @@
 ### Hi there 👋
 
 - Hello, I'm Nick Chin 👋
-- ![pbcn2](https://komarev.com/ghpvc/?username=pbcn2)
 
 ## Tags
 
-- 🍻 Undergraduate student at ![🇨🇳](https://cdn.emojidex.com/emoji/seal/中国国旗.png "中国国旗") SYSU, majoring in Intelligent Science and Technology
+- 🍻 Undergraduate student at SYSU, majoring in Intelligent Science and Technology.
 - ⚡ Python most.
-- 🏃 Driving / Cycling / ski / Mountaineering / Badminton
+- 🏃 Driving / ski / Mountaineering / Cycling / Badminton
 - 🤔 _why does it run_ creator
 - 💬 _Hello World!_ tester
 - 📫 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sumyggsun@gmail.com)](mailto:pbcn2secure@gmail.com)
