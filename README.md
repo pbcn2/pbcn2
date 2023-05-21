@@ -5,7 +5,7 @@
 
 ## Tags
 
-- 🍻 Undergraduate student at 🇨🇳 SYSU, majoring in Intelligent Science and Technology
+- 🍻 Undergraduate student at ![🇨🇳](https://cdn.emojidex.com/emoji/seal/中国国旗.png "中国国旗") SYSU, majoring in Intelligent Science and Technology
 - ⚡ Python most.
 - 🏃 Driving / Cycling / ski / Mountaineering / Badminton
 - 🤔 _why does it run_ creator
